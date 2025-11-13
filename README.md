@@ -12,13 +12,5 @@
 - ⚡ Fun fact: **You are gay**
 
 ## 📊 My GitHub Stats  
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=restuahmadinata&show_icons=true&locale=en&layout=compact&theme=dark"
-       alt="restuahmadinata top languages" />
-</p>
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=restuahmadinata&theme=dark"
-       alt="restuahmadinata streak stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=restuahmadinata&theme=tokyonight)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=restuahmadinata&show_icons=true&theme=tokyonight)
