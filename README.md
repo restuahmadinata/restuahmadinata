@@ -11,6 +11,5 @@
 - My portfolio web: [nataverse.netlify.app](https://nataverse.netlify.app/)  
 - Fun fact: **You are gay**
 
-## My GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=restuahmadinata&show_icons=true&theme=tokyonight)
+## Can I Reach 100 Days Streak?
 [![GitHub Streak](https://github-readme-streak-stats-tawny-delta.vercel.app/?user=restuahmadinata&theme=tokyonight)](https://git.io/streak-stats)
