@@ -11,7 +11,7 @@
 - My portfolio web: [nataverse.netlify.app](https://nataverse.netlify.app/)  
 - Fun fact: **Originally, I'm a leftist, but with some training, I can write with my both hands.**
 
-## Can I Reach 100 Days Streak?
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats-tawny-delta.vercel.app/?user=restuahmadinata&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
