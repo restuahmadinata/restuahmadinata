@@ -6,8 +6,8 @@
 </p>
 
 ## What I’m up to  
-- I’m currently working on [**NgePet**](https://github.com/restuahmadinata/ngepet)  
-- I’m learning **Back-End Engineering from scratch**  
+- I’m currently working on [**Marble Studyo**](https://github.com/restuahmadinata/marble-studyo)  
+- I’m learning **Mobile Development from scratch**  
 - My portfolio web: [nataverse.netlify.app](https://nataverse.netlify.app/)  
 - Fun fact: **Originally, I'm a leftist, but with some training, I can write with my both hands.**
 
